@@ -1,1 +1,3 @@
 # introToPredictiveAnalysis
+
+Jawon Kim
